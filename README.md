@@ -1,2 +1,3 @@
-<h1>https://School-is.github.io</h1>
-<p>https://School-is.github.io/calcutor.</p>
+
+print(f"<h1>{url_homepage}</h1>")
+print(f"<p>{url_calculator}</p>")
